@@ -27,3 +27,5 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 # 8. df.hist(figsize=(you selcet the data)) 
 
 # 9. plt.show ()
+
+# 10. sns.paiplot(df.iloc[:,0:6])
