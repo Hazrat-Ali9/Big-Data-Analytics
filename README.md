@@ -20,4 +20,5 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 5. df.descrive()
 
+# 6. df.isnull().sum()
 
