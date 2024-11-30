@@ -30,4 +30,4 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 10. sns.pairlot(df.iloc[:,0:6])
 
-# 11. 
+# 11. plt.show ()
