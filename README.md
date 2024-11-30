@@ -28,4 +28,6 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 9. plt.show ()
 
-# 10. sns.paiplot(df.iloc[:,0:6])
+# 10. sns.pairlot(df.iloc[:,0:6])
+
+# 11. 
