@@ -16,4 +16,6 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 3. df.tail ()
 
+# 4. df.info ()
+
 
