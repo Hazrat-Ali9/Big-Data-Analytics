@@ -24,4 +24,6 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 7. df.columns
 
-# 8. df.hist(figsize=(you selcet the data))
+# 8. df.hist(figsize=(you selcet the data)) 
+
+# 9. plt.show ()
