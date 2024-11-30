@@ -4,7 +4,7 @@
 
 # Data Science 
 
-# Mathematical Function :
+# Mathematical Calculation :
 
 Mathematical calculation is the process of using procedural knowledge to retrieve facts and perform calculations.
 
