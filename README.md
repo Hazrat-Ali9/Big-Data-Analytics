@@ -12,4 +12,6 @@ Mathematical calculation is the process of using procedural knowledge to retriev
 
 # 1. df = pd.read_csv('dataset'csv') ( Run Terminal)
 
+# 2. df = head ()
+
 
