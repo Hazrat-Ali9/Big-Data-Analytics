@@ -4,3 +4,8 @@
 
 # Data Science 
 
+# Mathematical Function :
+
+
+
+
