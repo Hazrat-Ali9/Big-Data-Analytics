@@ -2,11 +2,9 @@
 
 # Software Engineer 
 
-# Data Science 
+# Data Science || Mathematical Calculation :
 
-# Mathematical Calculation :
-
-Mathematical calculation is the process of using procedural knowledge to retrieve facts and perform calculations.
+# Mathematical calculation is the process of using procedural knowledge to retrieve facts and perform calculations.
 
 # Mathematical Command For Data Science :
 
